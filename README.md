@@ -1,4 +1,5 @@
 # 💫 About Me:
+I AM AMAN SANGANTI
 - 🔭 Currently building AI-powered applications and real-world data-driven systems<br>- 🤝 Open to collaborating on innovative AI/ML projects and hackathons<br>- 🆘 Exploring advanced topics like Deep Learning, NLP, and AI system design<br>- 🌱 Continuously learning and improving in Data Science and Artificial Intelligence<br>- 💬 Ask me about Python, ML models, computer vision, and project building<br>- ⚡ Fun fact: I enjoy turning ideas into working prototypes within 24 hours 🚀
 
 
